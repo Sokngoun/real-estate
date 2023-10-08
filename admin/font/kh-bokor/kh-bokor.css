@@ -1,0 +1,11 @@
+@font-face{
+    font-family: 'Kh-Bokor';
+    src: url('Kh-Bokor.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swrap;
+}
+
+.kh-font{
+    font-family: 'Kh-Bokor', "Fira Sans", "Source Sans Pro", ui-sans-serif, system-ui, "Segoe UI", "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}

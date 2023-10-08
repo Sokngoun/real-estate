@@ -1,0 +1,4 @@
+Manage Property
+    tbl_property (property_id,property_name,property_description,property_price, property_status,property_location)
+    tbl_property_type (id,type)
+    
