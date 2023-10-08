@@ -1,5 +1,5 @@
 <?php
-
+phpinfo();
   session_start();
   date_default_timezone_set("Asia/Phnom_Penh");
   include_once "./admin/config/config.php";
